@@ -1,3 +1,5 @@
+//this page creates a reusable input field component for forms like
+
 import { StyleSheet, TextInput, View } from "react-native";
 
 export default function InputField({ value, onChangeText, placeholder, secure }) {
